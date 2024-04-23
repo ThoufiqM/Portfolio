@@ -1,0 +1,30 @@
+[
+  {
+    "imgurl": "/assets/twitter.svg",
+    "title": "Product Designer at “FXDX Exchange”",
+    "role": "Full Time",
+    "date": "Apr 2023 - Present",
+    "description": "Jorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis."
+  },
+  {
+    "imgurl": "/assets/photoshop.svg",
+    "title": "Photoshop Artist at “The Art 360”",
+    "role": "Part Time Freelancer",
+    "date": "Mar 2019 - Present",
+    "description": "Jorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis."
+  },
+  {
+    "imgurl": "/assets/brandlution.svg",
+    "title": "UX/UI Designer at “Brandlution”",
+    "role": "Internship",
+    "date": "Sept 2022 - Mar 2023",
+    "description": "Jorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis."
+  },
+  {
+    "imgurl": "/assets/cognizant.svg",
+    "title": "UX Researcher at “Cognizant”",
+    "role": "Full Time",
+    "date": "Mar 2021 - Sept 2022",
+    "description": "Jorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis."
+  }
+]
