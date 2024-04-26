@@ -1,92 +1,154 @@
 [
   {
-    "imgurl": "/assets/Group 9.svg",
+    "imgurl": "/assets/project1.png",
     "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "date": "Mar 2024 - Apr 2024",
+    "desc": "Fxdx v2 revolutionizes trading by integrating multiple perpetual decentralized exchanges (perp dex), providing users with seamless access to a wide array of trading opportunities.",
+    "button1": "Experience Now",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 10.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project2.png",
+    "title": "Quinvest Landing Page ",
+    "date": "Jan 2024 - Feb 2024",
+    "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
+    "button1": "Experience Now",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 12.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project3.png",
+    "title": "Quinvest Dashboard",
+    "date": "Jan 2024 - Feb 2024",
+    "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
+    "button1": "Experience Now",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 19.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project4.png",
+    "title": "Pump100x Meme coin - LP",
+    "date": "January 2024",
+    "desc": "Pumpx introduces a fresh perspective to the cryptocurrency realm as a meme coin, blending humor and innovation to create an engaging and dynamic digital asset",
+    "button1": "Experience Now",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 20.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project5.png",
+    "title": "AlphaX Join Waitlist Page",
+    "date": "January 2024",
+    "desc": "Alphax is a decentralized platform for perpetual futures trading, offering traders a secure and efficient environment to engage with futures contracts",
+    "button1": "Experience Now",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 24.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project6.png",
+    "title": "Namma PG - UX&UI",
+    "date": "2023",
+    "desc": "Namma PG app simplifies finding accommodations. Users easily locate PGs by location, budget, and amenities, streamlining the search for a hassle-free experience",
+    "button1": "View Prototype",
+    "button1link": "",
+    "button2": "View Case Study",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 25.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project7.png",
+    "title": "FXDX v2 Landing Page",
+    "date": "December 2023",
+    "desc": "Fxdx v2 revolutionizes trading by integrating multiple perpetual decentralized exchanges (perp dex), providing users with seamless access to a wide array of trading opportunities.",
+    "button1": "View Prototype",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 26.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project8.png",
+    "title": "Brainoviq Quiz UI Task",
+    "date": "2023",
+    "desc": "",
+    "button1": "View Prototype",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 27.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project9.png",
+    "title": "SteeGo - UX&UI",
+    "date": "2022",
+    "desc": "",
+    "button1": "View Prototype",
+    "button1link": ""
   },
   {
-    "imgurl": "/assets/Group 28.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project10.png",
+    "title": "Primis Protocol UX&UI Task",
+    "date": "March 2024",
+    "desc": "Primis Protocol introduces an innovative liquid staking solution utilizing LST-bonds to generate focused yield tokens and enhance liquid staking capabilities",
+    "button1": "View Prototype",
+    "button1link": "",
+    "button2": "View Case Study",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 29.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project11.png",
+    "title": "KoinBX UX&UI Task",
+    "date": "February 2024",
+    "desc": "KoinBX is a global cryptocurrency centralized exchange that allows users to buy, sell, and trade digital assets like Bitcoin, Ethereum, Tether, and Ripple.",
+    "button1": "View Prototype",
+    "button1link": "",
+    "button2": "View Case Study",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 30.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project12.png",
+    "title": "The Art 360 - UI",
+    "date": "December 2022",
+    "desc": "The Art 360 mobile app aims to offer a seamless interface for a gift-selling platform featuring unique and customizable artworks like digital arts, Mosaic arts, Restorations, etc...",
+    "button1": "View Prototype",
+    "button1link": "",
+    "button2": "View Case Study",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 31.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project13.png",
+    "title": "The Art 360 - Ad posters",
+    "date": "2019-2020(Freelancing)",
+    "desc": "The Art 360 offers a curated selection of digital art frames, mosaic art, and restoration services, redefining the gifting experience with unique and memorable options",
+    "button1": "View Insta Page",
+    "button1link": "",
+    "button2": "View Posters",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 32.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project14.png",
+    "title": "FXDX - Marketing posters",
+    "date": "Apr 2023 - Present",
+    "desc": "I've produced impactful marketing materials for FXDX v1, v2, Alphax, and more, effectively capturing the essence and value of each platform",
+    "button1": "View Twitter Page",
+    "button1link": "",
+    "button2": "View Posters",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 33.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project15.png",
+    "title": "Youtube Thumbnail Design",
+    "date": "Jun 2023 - Present",
+    "desc": "I specialize in crafting high-click-through-rate (CTR) thumbnails for my YouTube channel, ensuring visually compelling images that drive engagement and attract viewers",
+    "button1": "Explore YT Channel",
+    "button1link": "",
+    "button2": "View Thumbnails",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 34.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project16.png",
+    "title": "FXDX - Marketing Videos",
+    "date": "Apr 2023 - Present",
+    "desc": "I've produced impactful marketing materials for FXDX v1, v2, Alphax, and more, effectively capturing the essence and value of each platform",
+    "button1": "View Twitter Page",
+    "button1link": "",
+    "button2": "View Videos",
+    "button2link": ""
   },
   {
-    "imgurl": "/assets/Group 35.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
-  },
-  {
-    "imgurl": "/assets/Group 9.svg",
-    "title": "FXDX v2 Dashboard",
-    "date": "Feb 2024 - Mar 2024"
+    "imgurl": "/assets/project17.png",
+    "title": "Youtube Video Edits",
+    "date": "Jun 2023 - Present",
+    "desc": "I excel in editing YouTube videos with captivating effects, elevating engagement and viewer retention on my channel",
+    "button1": "Explore YT Channel",
+    "button1link": ""
   }
 ]

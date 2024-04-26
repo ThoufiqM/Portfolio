@@ -6,11 +6,11 @@ import React from "react";
 const Contact = () => {
   return (
     <footer
-      className="flex flex-col items-center justify-center mx-auto text-center bg-[#191919] pt-14 gap-6 pb-5"
+      className="flex flex-col items-center justify-center mx-auto text-center bg-[#191919] pt-14 gap-6 pb-5 px-1"
       id="contact"
     >
       <p className="text-xl md:text-2xl font-extrabold">Get In Touch</p>
-      <p className="md:w-[650px] text-sm text-[#CACACA]">
+      <p className="sm:w-[650px] text-sm text-[#CACACA] text-pretty">
         Ready to bring your ideas to life? Let's collaborate! Whether you're a
         startup, established company, or individual with a vision, I'm here to
         help. From concept to execution, let's create something amazing together
