@@ -75,13 +75,9 @@ function Navbar() {
     <>
       <section className="">
         {/* Desktop Navbar */}
-        <div className=" hidden md:flex justify-center items-center">
+        <div className="hidden md:flex justify-center items-center">
           <div
-            className={`container fixed mx-auto flex justify-between px-5 mt-16 items-center font-mono gap-6 lg:gap-10 h-16 w-full z-40 tracking-widest backdrop-blur-md bg-background shadow-md shadow-navy-shadow transition-all duration-300  ${
-              show && "-translate-y-full duration-300"
-            } ${
-              lastScrollY > 0 ? "shadow-md shadow-navy-shadow" : "shadow-none"
-            }`}
+            className={`container fixed mx-auto flex justify-between px-5 mt-16 items-center font-mono gap-6 lg:gap-10 h-16 w-full z-40 tracking-widest backdrop-blur-md bg-[#161513]/70 transition-all duration-300 `}
           >
             <span className="flex items-center cursor-pointer">
               <Image
@@ -118,16 +114,20 @@ function Navbar() {
                 Resume
               </a>
             </div> */}
-            <Button variant="outline" className="hidden lg:block">
-              Download CV
-            </Button>
+            <div className="bg-gradient-to-r from-[#F9DB43]  rounded-full p-[1px] to-[#FD495E]">
+              <Button variant="secondary" className="rounded-full bg-[#161513] ">
+                <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
+                  Download CV
+                </span>
+              </Button>
+            </div>
           </div>
         </div>
 
         {/* Mobile Navbar */}
 
         <div
-          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest backdrop-blur-md bg-background z-50 transition-all duration-300 shadow-md shadow-navy-shadow ${
+          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest  backdrop-blur-md bg-background z-50 transition-all duration-300 shadow-md shadow-navy-shadow ${
             show && "-translate-y-full duration-300"
           } ${
             lastScrollY > 0 ? "shadow-md shadow-navy-shadow" : "shadow-none"
@@ -212,7 +212,16 @@ function Navbar() {
                   ))}
                 </ul>
 
-                <Button variant="outline">Download CV</Button>
+                <div className="bg-gradient-to-r from-[#F9DB43]  rounded-full p-[1px] to-[#FD495E]">
+                  <Button
+                    variant="secondary"
+                    className="rounded-full bg-[#161513]"
+                  >
+                    <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
+                      Download CV
+                    </span>
+                  </Button>
+                </div>
               </div>
             </SheetContent>
           </Sheet>

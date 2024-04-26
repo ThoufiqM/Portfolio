@@ -1,0 +1,28 @@
+/* styles.css */
+.gradient-border {
+    background: linear-gradient(45deg, #F9DB43, #FD495E);
+    border-radius: 10px;
+    position: relative;
+  }
+  
+  .gradient-border::after {
+    content: "";
+    position: absolute;
+    top: 1px; bottom: 1px; left: 1px; right: 1px;
+    background: linear-gradient(45deg, #F9DB431A, #FD495E1A);
+    border-radius: 9px;
+    z-index: -1;
+  }
+  
+  .gradient-text {
+    background: linear-gradient(45deg, #F9DB43, #FD495E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  
+  .gradient-bg {
+    background: linear-gradient(45deg, #F9DB431A, #FD495E1A);
+    border-radius: 10px;
+  }
+  

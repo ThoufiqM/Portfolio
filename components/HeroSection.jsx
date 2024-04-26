@@ -56,7 +56,14 @@ const HeroSection = () => {
 
         <div className="flex items-center justify-center lg:justify-start space-x-3 md:space-x-5">
           <Button variant="default">Get in touch</Button>
-          <Button variant="outline">Download CV</Button>
+          <div className="bg-gradient-to-r from-[#F9DB43]  rounded-full p-[1px] to-[#FD495E]">
+            <Button variant="secondary" className="rounded-full bg-[#161513]">
+              <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
+                Download CV
+              </span>
+            </Button>
+          </div>
+          {/* <Button variant="outline">Download CV</Button> */}
         </div>
       </div>
 

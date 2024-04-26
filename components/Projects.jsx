@@ -29,6 +29,11 @@ const Projects = () => {
             imgurl={item.imgurl}
             title={item.title}
             date={item.date}
+            desc={item.desc}
+            button1={item.button1}
+            button1link={item.button1link}
+            button2={item.button2}
+            button2link={item.button2link}
           />
         ))}
       </div>
