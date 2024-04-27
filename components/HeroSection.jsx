@@ -3,6 +3,8 @@ import Image from "next/image";
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { Button } from "./ui/button";
+import { Link } from "react-scroll";
+import ResumeButton from "./Cards/ResumeButton";
 
 const HeroSection = () => {
   const gradientStyle = {
@@ -12,15 +14,18 @@ const HeroSection = () => {
     WebkitTextFillColor: "transparent",
   };
   return (
-    <div className="container flex pt-20 lg:pt-[200px] flex-col-reverse lg:flex-row items-center lg:justify-between lg:space-x-10">
+    <div
+      className="container flex pt-20 lg:pt-[200px] flex-col-reverse lg:flex-row items-center lg:justify-between lg:space-x-10"
+      id="about"
+    >
       <div className="space-y-4 md:space-y-5  text-center lg:text-left">
         <div className="space-y-2">
-          <span className="flex flex-col lg:flex-row space-x-3 text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left">
+          <span className="flex flex-col lg:flex-row md:space-x-3 text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left">
             <p>Hi,</p>
             <p>I'm Mohammad Thoufiq</p>
           </span>
-          <span className="flex items-center justify-center lg:justify-start space-x-3 ">
-            <p className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left lg:h-14">
+          <span className="flex items-center justify-center lg:justify-start ">
+            <p className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left lg:h-14 me-2">
               I’m a{" "}
             </p>
             <TypeAnimation
@@ -55,15 +60,20 @@ const HeroSection = () => {
         </p>
 
         <div className="flex items-center justify-center lg:justify-start space-x-3 md:space-x-5">
-          <Button variant="default">Get in touch</Button>
-          <div className="bg-gradient-to-r from-[#F9DB43]  rounded-full p-[1px] to-[#FD495E]">
-            <Button variant="secondary" className="rounded-full bg-[#161513]">
-              <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
-                Download CV
-              </span>
+          <Link
+            to={"contact"}
+            spy={true}
+            smooth={true}
+            offset={-90}
+            duration={500}
+            className="text-lightest-slate hover:text-green "
+          >
+            <Button variant="default" className="text-sm font-semibold">
+              Get in touch
             </Button>
-          </div>
-          {/* <Button variant="outline">Download CV</Button> */}
+          </Link>
+
+          <ResumeButton />
         </div>
       </div>
 

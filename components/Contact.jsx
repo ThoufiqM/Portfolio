@@ -34,16 +34,26 @@ const Contact = () => {
         </Link>
       </div>
       <div className="flex items-center gap-5 mt-5">
-        <Image width={25} height={20} src="/assets/linkedin.svg" />
-        <Image width={25} height={20} src="/assets/behance.svg" />
-        <Image width={25} height={20} src="/assets/youtube.svg" />
-        <Image
-          width={20}
-          height={20}
-          src="/assets/instagram.svg"
-          className=""
-        />
-        <Image width={20} height={20} src="/assets/x.svg" className="" />
+        <Link href="https://www.linkedin.com/in/mohammad-thoufiq-8257b9201/">
+          <Image width={25} height={20} src="/assets/linkedin.svg" />
+        </Link>
+        <Link href="https://www.behance.net/e3284e9e">
+          <Image width={25} height={20} src="/assets/behance.svg" />
+        </Link>
+        <Link href="https://www.youtube.com/@ThoufiqM_">
+          <Image width={25} height={20} src="/assets/youtube.svg" />
+        </Link>
+        <Link href="https://www.instagram.com/thoufiqm__/?igshid=MzNlNGNkZWQ4Mg%3D%3D">
+          <Image
+            width={20}
+            height={20}
+            src="/assets/instagram.svg"
+            className=""
+          />
+        </Link>
+        <Link href="https://twitter.com/Thoufiq_mm?t=wuN23tceSGJ6kPu8fmzxyg&s=09">
+          <Image width={20} height={20} src="/assets/x.svg" className="" />
+        </Link>
       </div>
       <span className="text-sm text-[#818181] mt-5 flex items-center gap-1">
         <p className=" font-light">©Designed By </p>

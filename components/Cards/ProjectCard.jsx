@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "../ui/button";
 import s from "./card.module.css";
+import Link from "next/link";
 
 const ProjectCard = ({
   imgurl,
@@ -25,7 +26,7 @@ const ProjectCard = ({
   return (
     <Dialog>
       <DialogTrigger>
-        <div className="cursor-pointer rounded-[8px] overflow-hidden transform transition-transform duration-300 ease-in-out hover:scale-105 focus:scale-105">
+        <div className="cursor-pointer rounded-[8px] overflow-hidden transform transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:shadow-[#FF8660]/20">
           <Image
             width={350}
             height={218}
@@ -62,18 +63,26 @@ const ProjectCard = ({
               </p>
               <p className="text-[#B1B2B380] text-start text-base">{date}</p>
             </span>
-            <p className="text-[#B1B2B3] text-start text-base">{desc}</p>
+            <p className="text-[#B1B2B3] text-start text-sm">{desc}</p>
             <div className={`grid ${button2 && "grid-cols-2"} gap-4`}>
               {button2 && (
-                <div className="bg-gradient-to-r from-[#F9DB43] w-full rounded-[10px] p-[1px] to-[#FD495E]">
+                <Link
+                  href={button2link}
+                  target="_blank"
+                  className="bg-gradient-to-r from-[#F9DB43] w-full rounded-[10px] p-[1px] to-[#FD495E]"
+                >
                   <Button variant="secondary" className="bg-[#2A2A2A]">
-                    <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
+                    <span className=" bg-clip-text text-sm font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
                       {button2}
                     </span>
                   </Button>
-                </div>
+                </Link>
               )}
-              <Button className="rounded-[10px] font-bold w-full text-base">{button1}</Button>
+              <Link href={button1link} target="_blank">
+                <Button className="rounded-[10px] font-bold w-full text-sm">
+                  {button1}
+                </Button>
+              </Link>
               {/* {button2 && (
                 <span className="w-full border border-red-500 rounded-[10px]">
                   <Button

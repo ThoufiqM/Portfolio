@@ -14,6 +14,7 @@ import Image from "next/image";
 import { Button } from "./ui/button";
 
 import { Sheet, SheetContent } from "@/components/ui/sheet";
+import ResumeButton from "./Cards/ResumeButton";
 
 function Navbar() {
   const [show, setShow] = useState(false);
@@ -50,23 +51,23 @@ function Navbar() {
 
   const navItems = [
     {
-      to: "Home",
-      name: "Home",
+      to: "about",
+      name: "About",
     },
     {
-      to: "Projects",
+      to: "projects",
       name: "Projects",
     },
     {
-      to: "Expericence",
-      name: "Expericence",
+      to: "experience",
+      name: "Experience",
     },
     {
-      to: "Education",
+      to: "education",
       name: "Education",
     },
     {
-      to: "Contact",
+      to: "contact",
       name: "Contact",
     },
   ];
@@ -95,7 +96,7 @@ function Navbar() {
                     to={item.to}
                     spy={true}
                     smooth={true}
-                    offset={0}
+                    offset={-90}
                     duration={500}
                     className="text-lightest-slate hover:text-green "
                   >
@@ -114,32 +115,22 @@ function Navbar() {
                 Resume
               </a>
             </div> */}
-            <div className="bg-gradient-to-r from-[#F9DB43]  rounded-full p-[1px] to-[#FD495E]">
-              <Button variant="secondary" className="rounded-full bg-[#161513] ">
-                <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
-                  Download CV
-                </span>
-              </Button>
-            </div>
+            <ResumeButton />
           </div>
         </div>
 
         {/* Mobile Navbar */}
 
         <div
-          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest  backdrop-blur-md bg-background z-50 transition-all duration-300 shadow-md shadow-navy-shadow ${
-            show && "-translate-y-full duration-300"
-          } ${
-            lastScrollY > 0 ? "shadow-md shadow-navy-shadow" : "shadow-none"
-          }`}
+          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest backdrop-blur-md bg-background z-50 transition-all duration-300 shadow-md shadow-navy-shadow `}
         >
           <div
-            className="flex items-center h-16 w-full justify-between z-50"
+            className="flex items-center h-16 w-full justify-between z-50 "
             onClick={() => {
               modal == true ? setModal(false) : setModal(true);
             }}
           >
-            <span className="flex h-full items-center cursor-pointer">
+            <span className="flex h-full items-center cursor-pointer ms-4">
               <Image
                 src="/assets/thoufRes.svg"
                 alt=""
@@ -187,8 +178,8 @@ function Navbar() {
             onOpenChange={() => setModal(false)}
             className=" z-50"
           >
-            <SheetContent className="backdrop-blur bg-background w-[250px] border-none pt-20">
-              <div className="flex flex-col items-center justify-start space-y-12">
+            <SheetContent className="backdrop-blur bg-background w-[250px] border-none pt-20 shadow-2xl shadow-[#FF8660]/30">
+              <div className="flex flex-col items-center justify-start space-y-12 ">
                 <ul className=" flex flex-col justify-center items-center space-y-10 text-sm font-mono font-semibold">
                   {navItems.map((item) => (
                     <li
@@ -202,7 +193,7 @@ function Navbar() {
                         to={item.to}
                         spy={true}
                         smooth={true}
-                        offset={0}
+                        offset={-90}
                         duration={500}
                         className="text-lightest-slate hover:text-green block"
                       >
@@ -212,16 +203,7 @@ function Navbar() {
                   ))}
                 </ul>
 
-                <div className="bg-gradient-to-r from-[#F9DB43]  rounded-full p-[1px] to-[#FD495E]">
-                  <Button
-                    variant="secondary"
-                    className="rounded-full bg-[#161513]"
-                  >
-                    <span className=" bg-clip-text text-base font-bold text-transparent bg-gradient-to-r from-[#F9DB43] to-[#FD495E]">
-                      Download CV
-                    </span>
-                  </Button>
-                </div>
+                <ResumeButton />
               </div>
             </SheetContent>
           </Sheet>

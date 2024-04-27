@@ -5,7 +5,7 @@
     "date": "Mar 2024 - Apr 2024",
     "desc": "Fxdx v2 revolutionizes trading by integrating multiple perpetual decentralized exchanges (perp dex), providing users with seamless access to a wide array of trading opportunities.",
     "button1": "Experience Now",
-    "button1link": ""
+    "button1link": "https://trade.fxdx.exchange/"
   },
   {
     "imgurl": "/assets/project2.png",
@@ -13,7 +13,7 @@
     "date": "Jan 2024 - Feb 2024",
     "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
     "button1": "Experience Now",
-    "button1link": ""
+    "button1link": "https://quinvest.vercel.app/"
   },
   {
     "imgurl": "/assets/project3.png",
@@ -21,15 +21,7 @@
     "date": "Jan 2024 - Feb 2024",
     "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
     "button1": "Experience Now",
-    "button1link": ""
-  },
-  {
-    "imgurl": "/assets/project4.png",
-    "title": "Pump100x Meme coin - LP",
-    "date": "January 2024",
-    "desc": "Pumpx introduces a fresh perspective to the cryptocurrency realm as a meme coin, blending humor and innovation to create an engaging and dynamic digital asset",
-    "button1": "Experience Now",
-    "button1link": ""
+    "button1link": "https://quinvest.vercel.app/dashboard"
   },
   {
     "imgurl": "/assets/project5.png",
@@ -37,17 +29,7 @@
     "date": "January 2024",
     "desc": "Alphax is a decentralized platform for perpetual futures trading, offering traders a secure and efficient environment to engage with futures contracts",
     "button1": "Experience Now",
-    "button1link": ""
-  },
-  {
-    "imgurl": "/assets/project6.png",
-    "title": "Namma PG - UX&UI",
-    "date": "2023",
-    "desc": "Namma PG app simplifies finding accommodations. Users easily locate PGs by location, budget, and amenities, streamlining the search for a hassle-free experience",
-    "button1": "View Prototype",
-    "button1link": "",
-    "button2": "View Case Study",
-    "button2link": ""
+    "button1link": "https://alphax.finance/"
   },
   {
     "imgurl": "/assets/project7.png",
@@ -55,23 +37,25 @@
     "date": "December 2023",
     "desc": "Fxdx v2 revolutionizes trading by integrating multiple perpetual decentralized exchanges (perp dex), providing users with seamless access to a wide array of trading opportunities.",
     "button1": "View Prototype",
-    "button1link": ""
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=347-6132&viewport=798%2C599%2C0.27&t=skolxcGuImXZgYS1-1&scaling=scale-down-width&starting-point-node-id=347%3A1753&mode=design"
   },
   {
-    "imgurl": "/assets/project8.png",
-    "title": "Brainoviq Quiz UI Task",
+    "imgurl": "/assets/project4.png",
+    "title": "Pump100x Meme coin - LP",
+    "date": "January 2024",
+    "desc": "Pumpx introduces a fresh perspective to the cryptocurrency realm as a meme coin, blending humor and innovation to create an engaging and dynamic digital asset",
+    "button1": "Experience Now",
+    "button1link": "https://pum-p-coin.vercel.app/"
+  },
+  {
+    "imgurl": "/assets/project6.png",
+    "title": "Namma PG - UX&UI",
     "date": "2023",
-    "desc": "",
+    "desc": "Namma PG app simplifies finding accommodations. Users easily locate PGs by location, budget, and amenities, streamlining the search for a hassle-free experience",
     "button1": "View Prototype",
-    "button1link": ""
-  },
-  {
-    "imgurl": "/assets/project9.png",
-    "title": "SteeGo - UX&UI",
-    "date": "2022",
-    "desc": "",
-    "button1": "View Prototype",
-    "button1link": ""
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=347-1753&viewport=798%2C599%2C0.27&t=eCIzBDOJDLbaPeG5-1&scaling=scale-down&starting-point-node-id=347%3A1753&mode=design",
+    "button2": "View Case Study",
+    "button2link": "https://drive.google.com/drive/folders/1i_heFWkEIxPivlDCl_g3wozlxBCLptmP?usp=drive_link"
   },
   {
     "imgurl": "/assets/project10.png",
@@ -79,19 +63,9 @@
     "date": "March 2024",
     "desc": "Primis Protocol introduces an innovative liquid staking solution utilizing LST-bonds to generate focused yield tokens and enhance liquid staking capabilities",
     "button1": "View Prototype",
-    "button1link": "",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=356-5074&viewport=-1220%2C155%2C0.26&t=FsV0a8GKI4P9YayD-1&scaling=min-zoom&starting-point-node-id=347%3A1753&mode=design",
     "button2": "View Case Study",
-    "button2link": ""
-  },
-  {
-    "imgurl": "/assets/project11.png",
-    "title": "KoinBX UX&UI Task",
-    "date": "February 2024",
-    "desc": "KoinBX is a global cryptocurrency centralized exchange that allows users to buy, sell, and trade digital assets like Bitcoin, Ethereum, Tether, and Ripple.",
-    "button1": "View Prototype",
-    "button1link": "",
-    "button2": "View Case Study",
-    "button2link": ""
+    "button2link": "https://drive.google.com/file/d/1qfPz6FwHRvnGaHIfCdY9XfDU843u24Fn/view?"
   },
   {
     "imgurl": "/assets/project12.png",
@@ -99,9 +73,39 @@
     "date": "December 2022",
     "desc": "The Art 360 mobile app aims to offer a seamless interface for a gift-selling platform featuring unique and customizable artworks like digital arts, Mosaic arts, Restorations, etc...",
     "button1": "View Prototype",
-    "button1link": "",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=356-4936&viewport=-841%2C468%2C0.18&t=nnO5aBwqe5rFiZEi-1&scaling=scale-down&starting-point-node-id=356%3A4936&mode=design",
     "button2": "View Case Study",
-    "button2link": ""
+    "button2link": "https://drive.google.com/file/d/1KkmXBcYYRjheZ09KAIwbhrSNFmQfFQd4/view?usp=drive_link"
+  },
+  {
+    "imgurl": "/assets/project11.png",
+    "title": "KoinBX UX&UI Task",
+    "date": "February 2024",
+    "desc": "KoinBX is a global cryptocurrency centralized exchange that allows users to buy, sell, and trade digital assets like Bitcoin, Ethereum, Tether, and Ripple.",
+    "button1": "View Prototype",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=356-5450&viewport=-1220%2C155%2C0.26&t=FsV0a8GKI4P9YayD-1&scaling=min-zoom&starting-point-node-id=347%3A1753&mode=design",
+    "button2": "View Case Study",
+    "button2link": "https://drive.google.com/file/d/1JbtmkrhpXGyFdcfCMnyjFtP4iyb-mP2L/view?usp=drive_link"
+  },
+  {
+    "imgurl": "/assets/project9.png",
+    "title": "SteeGo - UX&UI",
+    "date": "2022",
+    "desc": "SteeGo - Steer and Go is a parking app where users can find the parking locations very easily. Its a mobile application which makes it handy for users.",
+    "button1": "View Prototype",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=347-8246&viewport=798%2C599%2C0.27&t=skolxcGuImXZgYS1-1&scaling=scale-down&starting-point-node-id=347%3A8246&show-proto-sidebar=1&mode=design",
+    "button2": "View Case Study",
+    "button2link": "https://drive.google.com/drive/folders/1g_TztaZhbuGv9hfhoLBocn5rKcUBHgcb?usp=drive_link"
+  },
+  {
+    "imgurl": "/assets/project8.png",
+    "title": "Brainoviq Quiz UI Task",
+    "date": "2023",
+    "desc": "Crafted the UI for the Brainoviq quiz game, ensuring users can enjoy the game with a seamless and intuitive interface.",
+    "button1": "View Prototype",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=361-6025&viewport=-1220%2C155%2C0.26&t=FsV0a8GKI4P9YayD-1&scaling=scale-down&starting-point-node-id=361%3A6020&show-proto-sidebar=1&mode=design",
+    "button2": "View Case Study",
+    "button2link": "https://drive.google.com/file/d/16rEu-WdpK0E2pnJEBCIJsDaTqqLUZI-l/view?usp=drive_link"
   },
   {
     "imgurl": "/assets/project13.png",
@@ -109,19 +113,9 @@
     "date": "2019-2020(Freelancing)",
     "desc": "The Art 360 offers a curated selection of digital art frames, mosaic art, and restoration services, redefining the gifting experience with unique and memorable options",
     "button1": "View Insta Page",
-    "button1link": "",
+    "button1link": "https://drive.google.com/drive/folders/1JBl35CsTBqoTCP8uEEOTy3vcreTzb4D4?usp=drive_link",
     "button2": "View Posters",
-    "button2link": ""
-  },
-  {
-    "imgurl": "/assets/project14.png",
-    "title": "FXDX - Marketing posters",
-    "date": "Apr 2023 - Present",
-    "desc": "I've produced impactful marketing materials for FXDX v1, v2, Alphax, and more, effectively capturing the essence and value of each platform",
-    "button1": "View Twitter Page",
-    "button1link": "",
-    "button2": "View Posters",
-    "button2link": ""
+    "button2link": "https://www.instagram.com/the_art_360_?igsh=MW05cnhwOTc1bWt2ag=="
   },
   {
     "imgurl": "/assets/project15.png",
@@ -129,19 +123,9 @@
     "date": "Jun 2023 - Present",
     "desc": "I specialize in crafting high-click-through-rate (CTR) thumbnails for my YouTube channel, ensuring visually compelling images that drive engagement and attract viewers",
     "button1": "Explore YT Channel",
-    "button1link": "",
+    "button1link": "https://www.youtube.com/@ThoufiqM_",
     "button2": "View Thumbnails",
-    "button2link": ""
-  },
-  {
-    "imgurl": "/assets/project16.png",
-    "title": "FXDX - Marketing Videos",
-    "date": "Apr 2023 - Present",
-    "desc": "I've produced impactful marketing materials for FXDX v1, v2, Alphax, and more, effectively capturing the essence and value of each platform",
-    "button1": "View Twitter Page",
-    "button1link": "",
-    "button2": "View Videos",
-    "button2link": ""
+    "button2link": "https://drive.google.com/drive/folders/17DAyrEsgdVfiV_5tSgLoWWS7HJmKTlOx?usp=drive_link"
   },
   {
     "imgurl": "/assets/project17.png",
@@ -149,6 +133,26 @@
     "date": "Jun 2023 - Present",
     "desc": "I excel in editing YouTube videos with captivating effects, elevating engagement and viewer retention on my channel",
     "button1": "Explore YT Channel",
-    "button1link": ""
+    "button1link": " https://www.youtube.com/@ThoufiqM_"
+  },
+  {
+    "imgurl": "/assets/project14.png",
+    "title": "FXDX - Marketing posters",
+    "date": "Apr 2023 - Present",
+    "desc": "I've produced impactful marketing materials for FXDX v1, v2, Alphax, and more, effectively capturing the essence and value of each platform",
+    "button1": "View Twitter Page",
+    "button1link": "https://twitter.com/fxdxdex",
+    "button2": "View Posters",
+    "button2link": "https://drive.google.com/drive/folders/18R2XQ_poV3qMRyWMWF78nOijnrWTAo2t?usp=drive_link"
+  },
+  {
+    "imgurl": "/assets/project16.png",
+    "title": "FXDX - Marketing Videos",
+    "date": "Apr 2023 - Present",
+    "desc": "I've produced impactful marketing materials for FXDX v1, v2, Alphax, and more, effectively capturing the essence and value of each platform",
+    "button1": "View Twitter Page",
+    "button1link": "https://twitter.com/fxdxdex",
+    "button2": "View Videos",
+    "button2link": "https://drive.google.com/drive/folders/1vhyRopmATsXoMRAYTHJMNlEhPlu3oOtt?usp=drive_link"
   }
 ]
