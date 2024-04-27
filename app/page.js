@@ -4,12 +4,14 @@ import Experience from "@/components/Experience";
 import ExperienceWith from "@/components/ExperienceWith";
 import HeroSection from "@/components/HeroSection";
 import Projects from "@/components/Projects";
+import Skills from "@/components/Skills";
 
 export default function Home() {
   return (
     <main className="ms-1 space-y-[100px]">
       <HeroSection />
       <ExperienceWith />
+      <Skills />
       <Projects />
       <Experience />
       <Education />

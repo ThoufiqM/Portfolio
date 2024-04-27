@@ -115,7 +115,9 @@ function Navbar() {
                 Resume
               </a>
             </div> */}
-            <ResumeButton />
+            <span className="hidden lg:block">
+              <ResumeButton />
+            </span>
           </div>
         </div>
 

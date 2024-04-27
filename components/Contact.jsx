@@ -34,16 +34,16 @@ const Contact = () => {
         </Link>
       </div>
       <div className="flex items-center gap-5 mt-5">
-        <Link href="https://www.linkedin.com/in/mohammad-thoufiq-8257b9201/">
+        <Link href="https://www.linkedin.com/in/mohammad-thoufiq-8257b9201/" target="_blank">
           <Image width={25} height={20} src="/assets/linkedin.svg" />
         </Link>
-        <Link href="https://www.behance.net/e3284e9e">
+        <Link href="https://www.behance.net/e3284e9e" target="_blank">
           <Image width={25} height={20} src="/assets/behance.svg" />
         </Link>
-        <Link href="https://www.youtube.com/@ThoufiqM_">
+        <Link href="https://www.youtube.com/@ThoufiqM_" target="_blank">
           <Image width={25} height={20} src="/assets/youtube.svg" />
         </Link>
-        <Link href="https://www.instagram.com/thoufiqm__/?igshid=MzNlNGNkZWQ4Mg%3D%3D">
+        <Link href="https://www.instagram.com/thoufiqm__/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
           <Image
             width={20}
             height={20}
@@ -51,7 +51,7 @@ const Contact = () => {
             className=""
           />
         </Link>
-        <Link href="https://twitter.com/Thoufiq_mm?t=wuN23tceSGJ6kPu8fmzxyg&s=09">
+        <Link href="https://twitter.com/Thoufiq_mm?t=wuN23tceSGJ6kPu8fmzxyg&s=09" target="_blank">
           <Image width={20} height={20} src="/assets/x.svg" className="" />
         </Link>
       </div>

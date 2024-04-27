@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Zero-to-one Product Design" },
+  { "id": 2, "name": "Design Thinking" },
+  { "id": 3, "name": "User Research" },
+  { "id": 4, "name": "Prototyping & Wireframing" },
+  { "id": 5, "name": "Information Architecture" },
+  { "id": 6, "name": "Interaction Design" },
+  { "id": 7, "name": "Responsive Design" },
+  { "id": 8, "name": "Persona Development" },
+  { "id": 9, "name": "User-centered Design Principles" },
+  { "id": 10, "name": "Analyzing User Behaviour" },
+  { "id": 11, "name": "Material UI" },
+  { "id": 12, "name": "Color Theory" },
+  { "id": 13, "name": "Iconography" },
+  { "id": 14, "name": "Typography" },
+  { "id": 15, "name": "Social Media Graphics", "type": "GD" },
+  { "id": 15, "name": "Color Grading", "type": "GD" },
+  { "id": 15, "name": "Thumbnail Design", "type": "GD" },
+  { "id": 15, "name": "Poster Design", "type": "GD" },
+  { "id": 15, "name": "Timeline Editing", "type": "VE" },
+  { "id": 15, "name": "Keyframing", "type": "VE" },
+  { "id": 15, "name": "Audio Mixing", "type": "VE" }
+]
