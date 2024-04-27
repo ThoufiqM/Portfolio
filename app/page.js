@@ -11,7 +11,6 @@ export default function Home() {
     <main className="ms-1 space-y-[100px]">
       <HeroSection />
       <ExperienceWith />
-      <Skills />
       <Projects />
       <Experience />
       <Education />

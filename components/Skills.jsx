@@ -1,7 +1,6 @@
 import React from "react";
 import HardSkills from "../util/HardSkills.json";
 import SoftSkills from "../util/SoftSkills.json";
-import { Span } from "next/dist/trace";
 
 const Skills = () => {
   return (
