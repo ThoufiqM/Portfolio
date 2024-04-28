@@ -78,7 +78,7 @@ function Navbar() {
         {/* Desktop Navbar */}
         <div className="hidden md:flex justify-center items-center">
           <div
-            className={`container fixed mx-auto flex justify-between px-5 mt-16 items-center font-mono gap-6 lg:gap-10 h-16 w-full z-40 tracking-widest backdrop-blur-md bg-[#161513]/70 transition-all duration-300 `}
+            className={`container fixed mx-auto flex justify-between px-5 mt-16 items-center gap-6 lg:gap-10 h-16 w-full z-40 tracking-widest backdrop-blur-md bg-[#161513]/70 transition-all duration-300 `}
           >
             <span className="flex items-center cursor-pointer">
               <Image
@@ -89,7 +89,7 @@ function Navbar() {
                 className=""
               />
             </span>
-            <ol className="flex space-x-5 lg:space-x-10 text-sm ">
+            <ol className="flex space-x-5 lg:space-x-10 text-sm font-semibold">
               {navItems.map((item) => (
                 <li key={item.to} className="text-green cursor-pointer">
                   <Link
@@ -107,7 +107,7 @@ function Navbar() {
             </ol>
             {/* <div className="relative h-10 w-24 bg-green rounded-md ">
               <a
-                className="alsolute  bg-[#0a192f] h-10 w-24 border text-green grid place-content-center font-mono rounded-md transition-all hover:-translate-x-1 hover:-translate-y-1 duration-150"
+                className="alsolute  bg-[#0a192f] h-10 w-24 border text-green grid place-content-center rounded-md transition-all hover:-translate-x-1 hover:-translate-y-1 duration-150"
                 href={resume}
                 rel="noopener noreferrer"
                 target="_blank"
@@ -124,7 +124,7 @@ function Navbar() {
         {/* Mobile Navbar */}
 
         <div
-          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest backdrop-blur-md bg-background z-50 transition-all duration-300 `}
+          className={`fixed h-16 flex items-center justify-end  w-full md:hidden tracking-widest backdrop-blur-md bg-background z-50 transition-all duration-300 `}
         >
           <div
             className="flex items-center h-16 w-full justify-between z-50 "
@@ -182,7 +182,7 @@ function Navbar() {
           >
             <SheetContent className="backdrop-blur bg-background w-[250px] border-none pt-20 ">
               <div className="flex flex-col items-center justify-start space-y-12 ">
-                <ul className=" flex flex-col justify-center items-center space-y-10 text-sm font-mono font-semibold">
+                <ul className=" flex flex-col justify-center items-center space-y-10 text-sm font-semibold">
                   {navItems.map((item) => (
                     <li
                       key={item.to}
