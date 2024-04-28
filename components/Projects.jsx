@@ -16,13 +16,13 @@ const Projects = () => {
 
   return (
     <div
-      className="container flex flex-col items-center justify-center gap-14"
+      className="container flex flex-col items-center justify-center gap-14 xl:p-0"
       id="projects"
     >
       <h2 className="bg-clip-text text-transparent bg-gradient-to-b from-[#FF8660] to-[#D5491D] text-4xl text-center font-extrabold">
         Projects
       </h2>
-      <div className="flex flex-wrap justify-around gap-14 ">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-content-between gap-10 xl:gap-20 ">
         {visibleCards.map((item, index) => (
           <ProjectCard
             key={index}

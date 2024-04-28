@@ -30,7 +30,7 @@ const ProjectCard = ({
           <Image
             width={350}
             height={218}
-            className=" w-[350px] h-[218px] object-cover"
+            className=" object-cover "
             src={imgurl}
             alt="title"
           />
