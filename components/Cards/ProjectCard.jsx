@@ -27,7 +27,7 @@ const ProjectCard = ({
     <Dialog>
       <DialogTrigger>
         <div className="cursor-pointer rounded-[8px] overflow-hidden transform transition-transform duration-300 ease-in-out hover:scale-105 ">
-          <Image
+          <img
             width={350}
             height={218}
             className=" object-cover "
@@ -47,7 +47,7 @@ const ProjectCard = ({
       </DialogTrigger>
       <DialogContent>
         <DialogTitle>
-          <Image
+          <img
             width={350}
             height={218}
             className=" w-full object-cover"
