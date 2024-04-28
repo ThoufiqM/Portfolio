@@ -4,7 +4,7 @@ import SoftSkills from "../util/SoftSkills.json";
 
 const Skills = () => {
   return (
-    <div className="container grid lg:grid-cols-4 w-full justify-center xl:px-14">
+    <div className="container grid lg:grid-cols-4 w-full justify-center xl:px-20">
       <div className=" md:col-span-3 space-y-4 bg-[#FFFFFF1A] px-6 py-5 rounded-xl border border-[#FFFFFF59] mb-10 lg:mb-0 lg:me-4">
         <h2 className="bg-clip-text text-transparent bg-gradient-to-b from-[#FF8660] to-[#D5491D] text-xl text-center font-semibold">
           Hard Skills & Techniques

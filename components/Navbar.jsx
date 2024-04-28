@@ -124,7 +124,7 @@ function Navbar() {
         {/* Mobile Navbar */}
 
         <div
-          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest backdrop-blur-md bg-background z-50 transition-all duration-300 shadow-md shadow-navy-shadow `}
+          className={`fixed h-16 flex items-center justify-end font-mono w-full md:hidden tracking-widest backdrop-blur-md bg-background z-50 transition-all duration-300 `}
         >
           <div
             className="flex items-center h-16 w-full justify-between z-50 "
@@ -180,7 +180,7 @@ function Navbar() {
             onOpenChange={() => setModal(false)}
             className=" z-50"
           >
-            <SheetContent className="backdrop-blur bg-background w-[250px] border-none pt-20 shadow-2xl shadow-[#FF8660]/30">
+            <SheetContent className="backdrop-blur bg-background w-[250px] border-none pt-20 ">
               <div className="flex flex-col items-center justify-start space-y-12 ">
                 <ul className=" flex flex-col justify-center items-center space-y-10 text-sm font-mono font-semibold">
                   {navItems.map((item) => (

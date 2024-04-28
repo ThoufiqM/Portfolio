@@ -26,7 +26,7 @@ const ProjectCard = ({
   return (
     <Dialog>
       <DialogTrigger>
-        <div className="cursor-pointer rounded-[8px] overflow-hidden transform transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:shadow-[#FF8660]/20">
+        <div className="cursor-pointer rounded-[8px] overflow-hidden transform transition-transform duration-300 ease-in-out hover:scale-105 ">
           <Image
             width={350}
             height={218}
