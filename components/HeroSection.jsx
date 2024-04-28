@@ -20,12 +20,12 @@ const HeroSection = () => {
     >
       <div className="space-y-4 md:space-y-5  text-center lg:text-left">
         <div className="space-y-2">
-          <span className="flex flex-col lg:flex-row md:space-x-3 text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left">
+          <span className="flex flex-col lg:flex-row md:space-x-3 text-2xl md:text-4xl xl:text-5xl font-extrabold text-center lg:text-left">
             <p>Hi,</p>
             <p>I'm Mohammad Thoufiq</p>
           </span>
           <span className="flex items-center justify-center lg:justify-start ">
-            <p className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left lg:h-14 me-2">
+            <p className="text-2xl md:text-4xl xl:text-5xl font-extrabold text-center lg:text-left lg:h-14 me-2">
               I’m a{" "}
             </p>
             <TypeAnimation
@@ -42,7 +42,7 @@ const HeroSection = () => {
               cursor={true}
               speed={50}
               style={gradientStyle}
-              className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center lg:text-left lg:h-14"
+              className="text-2xl md:text-4xl xl:text-5xl font-extrabold text-center lg:text-left lg:h-14"
               repeat={Infinity}
             />
           </span>
@@ -66,9 +66,9 @@ const HeroSection = () => {
             smooth={true}
             offset={-90}
             duration={500}
-            className="text-lightest-slate hover:text-green "
+            className="text-lightest-slate hover:text-green min-w-[150px] w-full max-w-[220px]"
           >
-            <Button variant="default" className="text-sm font-semibold">
+            <Button variant="default" className="text-sm font-semibold min-w-[140px] w-full max-w-[220px]">
               Get in touch
             </Button>
           </Link>

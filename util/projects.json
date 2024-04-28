@@ -8,44 +8,12 @@
     "button1link": "https://trade.fxdx.exchange/"
   },
   {
-    "imgurl": "/assets/project2.png",
-    "title": "Quinvest Landing Page ",
-    "date": "Jan 2024 - Feb 2024",
-    "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
-    "button1": "Experience Now",
-    "button1link": "https://quinvest.vercel.app/"
-  },
-  {
     "imgurl": "/assets/project3.png",
     "title": "Quinvest Dashboard",
     "date": "Jan 2024 - Feb 2024",
     "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
     "button1": "Experience Now",
     "button1link": "https://quinvest.vercel.app/dashboard"
-  },
-  {
-    "imgurl": "/assets/project5.png",
-    "title": "AlphaX Join Waitlist Page",
-    "date": "January 2024",
-    "desc": "Alphax is a decentralized platform for perpetual futures trading, offering traders a secure and efficient environment to engage with futures contracts",
-    "button1": "Experience Now",
-    "button1link": "https://alphax.finance/"
-  },
-  {
-    "imgurl": "/assets/project7.png",
-    "title": "FXDX v2 Landing Page",
-    "date": "December 2023",
-    "desc": "Fxdx v2 revolutionizes trading by integrating multiple perpetual decentralized exchanges (perp dex), providing users with seamless access to a wide array of trading opportunities.",
-    "button1": "View Prototype",
-    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=347-6132&viewport=798%2C599%2C0.27&t=skolxcGuImXZgYS1-1&scaling=scale-down-width&starting-point-node-id=347%3A1753&mode=design"
-  },
-  {
-    "imgurl": "/assets/project4.png",
-    "title": "Pump100x Meme coin - LP",
-    "date": "January 2024",
-    "desc": "Pumpx introduces a fresh perspective to the cryptocurrency realm as a meme coin, blending humor and innovation to create an engaging and dynamic digital asset",
-    "button1": "Experience Now",
-    "button1link": "https://pum-p-coin.vercel.app/"
   },
   {
     "imgurl": "/assets/project6.png",
@@ -58,16 +26,6 @@
     "button2link": "https://drive.google.com/drive/folders/1i_heFWkEIxPivlDCl_g3wozlxBCLptmP?usp=drive_link"
   },
   {
-    "imgurl": "/assets/project10.png",
-    "title": "Primis Protocol UX&UI Task",
-    "date": "March 2024",
-    "desc": "Primis Protocol introduces an innovative liquid staking solution utilizing LST-bonds to generate focused yield tokens and enhance liquid staking capabilities",
-    "button1": "View Prototype",
-    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=356-5074&viewport=-1220%2C155%2C0.26&t=FsV0a8GKI4P9YayD-1&scaling=min-zoom&starting-point-node-id=347%3A1753&mode=design",
-    "button2": "View Case Study",
-    "button2link": "https://drive.google.com/file/d/1qfPz6FwHRvnGaHIfCdY9XfDU843u24Fn/view?"
-  },
-  {
     "imgurl": "/assets/project12.png",
     "title": "The Art 360 - UI",
     "date": "December 2022",
@@ -76,6 +34,22 @@
     "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=356-4936&viewport=-841%2C468%2C0.18&t=nnO5aBwqe5rFiZEi-1&scaling=scale-down&starting-point-node-id=356%3A4936&mode=design",
     "button2": "View Case Study",
     "button2link": "https://drive.google.com/file/d/1KkmXBcYYRjheZ09KAIwbhrSNFmQfFQd4/view?usp=drive_link"
+  },
+  {
+    "imgurl": "/assets/project2.png",
+    "title": "Quinvest Landing Page ",
+    "date": "Jan 2024 - Feb 2024",
+    "desc": "Quinvest pioneers data-driven investment strategies, providing investors with powerful tools to maximize returns in today's dynamic financial markets",
+    "button1": "Experience Now",
+    "button1link": "https://quinvest.vercel.app/"
+  },
+  {
+    "imgurl": "/assets/project7.png",
+    "title": "FXDX v2 Landing Page",
+    "date": "December 2023",
+    "desc": "Fxdx v2 revolutionizes trading by integrating multiple perpetual decentralized exchanges (perp dex), providing users with seamless access to a wide array of trading opportunities.",
+    "button1": "View Prototype",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=347-6132&viewport=798%2C599%2C0.27&t=skolxcGuImXZgYS1-1&scaling=scale-down-width&starting-point-node-id=347%3A1753&mode=design"
   },
   {
     "imgurl": "/assets/project11.png",
@@ -87,6 +61,36 @@
     "button2": "View Case Study",
     "button2link": "https://drive.google.com/file/d/1JbtmkrhpXGyFdcfCMnyjFtP4iyb-mP2L/view?usp=drive_link"
   },
+  {
+    "imgurl": "/assets/project5.png",
+    "title": "AlphaX Join Waitlist Page",
+    "date": "January 2024",
+    "desc": "Alphax is a decentralized platform for perpetual futures trading, offering traders a secure and efficient environment to engage with futures contracts",
+    "button1": "Experience Now",
+    "button1link": "https://alphax.finance/"
+  },
+
+  {
+    "imgurl": "/assets/project4.png",
+    "title": "Pump100x Meme coin - LP",
+    "date": "January 2024",
+    "desc": "Pumpx introduces a fresh perspective to the cryptocurrency realm as a meme coin, blending humor and innovation to create an engaging and dynamic digital asset",
+    "button1": "Experience Now",
+    "button1link": "https://pum-p-coin.vercel.app/"
+  },
+
+  {
+    "imgurl": "/assets/project10.png",
+    "title": "Primis Protocol UX&UI Task",
+    "date": "March 2024",
+    "desc": "Primis Protocol introduces an innovative liquid staking solution utilizing LST-bonds to generate focused yield tokens and enhance liquid staking capabilities",
+    "button1": "View Prototype",
+    "button1link": "https://www.figma.com/proto/WFt2BGyIbfARQPEdTpD0nX/My-Portfolio?page-id=345%3A384&type=design&node-id=356-5074&viewport=-1220%2C155%2C0.26&t=FsV0a8GKI4P9YayD-1&scaling=min-zoom&starting-point-node-id=347%3A1753&mode=design",
+    "button2": "View Case Study",
+    "button2link": "https://drive.google.com/file/d/1qfPz6FwHRvnGaHIfCdY9XfDU843u24Fn/view?"
+  },
+
+  
   {
     "imgurl": "/assets/project9.png",
     "title": "SteeGo - UX&UI",

@@ -20,7 +20,7 @@ const Education = () => {
         >
           {data.map((item, index) => (
             <li key={index}>
-              <span class="absolute flex items-center justify-center w-2.5 h-2.5 mt-6 bg-[#FF8660] rounded-full -start-1.5 ring-8 ring-[#FF866033] dark:ring-gray-900 dark:bg-blue-900"></span>
+              <span className="absolute flex items-center justify-center w-2.5 h-2.5 mt-6 bg-[#FF8660] rounded-full -start-1.5 ring-8 ring-[#FF866033] dark:ring-gray-900 dark:bg-blue-900"></span>
               <EducationCard
                 key={index}
                 imgurl={item.imgurl}
