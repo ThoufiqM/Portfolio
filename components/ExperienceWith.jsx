@@ -44,7 +44,7 @@ const ExperienceWith = () => {
           alt=""
         />
       </div>
-      <Skills />
+      {/* <Skills /> */}
     </div>
   );
 };
