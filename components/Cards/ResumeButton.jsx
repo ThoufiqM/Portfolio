@@ -3,9 +3,9 @@ import { Button } from "../ui/button";
 import Link from "next/link";
 
 const ResumeButton = () => {
+  const link =
+    "https://drive.google.com/file/d/1k966NGYwA1kp_x-sfPbkeGnR9r8MIyGm/view?usp=drive_link";
 
-  const link = "https://drive.google.com/file/d/10_RlJwcq53rAsfzmQrZxRfzWDUGn8KQI/view?usp=drive_link";
-  
   return (
     <div className="bg-gradient-to-r from-[#F9DB43] rounded-full p-[1px] min-w-[150px] w-full max-w-[220px] to-[#FD495E]">
       <Link href={link} target="_blank">
